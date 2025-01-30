@@ -30,8 +30,8 @@ Hi, I'm [İsmail Yıldız](https://www.linkedin.com/in/imsims/), a Software Engi
 
 ### :octocat: Github Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=zoanset&show_icons=true&theme=radical" alt="ismailyildiz" width="480" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoanset&layout=compact&hide=html&theme=radical" alt="ismailyildiz"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devsimss&show_icons=true&theme=radical" alt="ismailyildiz" width="480" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devssims&layout=compact&hide=html&theme=radical" alt="ismailyildiz"/>
 </p>
 
 <div align="left">
