@@ -1,7 +1,7 @@
 ## Hi there, I'm İsmail Yıldız 🖥️ 🚀
 
 Hi, I'm [İsmail Yıldız](https://www.linkedin.com/in/imsims/), a Software Engineer 🖥️ from Turkey.  
-<img align="right" alt="GIF" src="software_engineer.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="zoanset/software_engineer.gif" width="500" height="320" />
 
 ### Talking about Personal Stuffs
 
