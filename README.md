@@ -6,7 +6,7 @@ Hi, I'm [İsmail Yıldız](https://www.linkedin.com/in/imsims/), a Software Engi
 ### Talking about Personal Stuffs
 
 - I graduated from Duzce University with a degree in Computer Engineering.  
-- I currently work as a Software Engineer at Pharmahan, focusing on backend development using Kotlin and C#.  
+- I currently work as a Software Engineer at Pharmahan, focusing on backend development using Kotlin and Python.  
 - I'm passionate about building clean and efficient code, and I often share my knowledge through articles and talks on modern software engineering practices.
 
 ### 🧰 Languages and Tools
