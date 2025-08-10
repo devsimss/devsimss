@@ -25,7 +25,13 @@ Hi, I'm [İsmail Yıldız](https://www.linkedin.com/in/imsims/), a Software Engi
   <img width="12" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" alt="csharp logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" height="30" alt="csharp logo"  />
   <img width="12" />
 </p>
 
