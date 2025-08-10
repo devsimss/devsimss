@@ -11,7 +11,7 @@ Hi, I'm [İsmail Yıldız](https://www.linkedin.com/in/imsims/), a Software Engi
 
 ### 🧰 Languages and Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" alt="kotlin logo"  />
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" height="30" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
   <img width="12" />
