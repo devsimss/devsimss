@@ -1,4 +1,4 @@
-## Hi there, I'm İsmail Yıldız 🖥️ 🚀
+## Hi there, I'm Ismail Yıldız 🖥️ 🚀
 
 Hi, I'm [Ismail YILDIZ](https://www.linkedin.com/in/imsims/), a Software Engineer 🖥️ from Turkey.  
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHI2d2w4bjB1dmttMmhnaWVwNjVocWs2aXAzdzU4bmt0cHNyejJkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="500" height="320" />
